@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://figcove.com/sitemap.xml
